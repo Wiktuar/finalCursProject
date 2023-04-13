@@ -1,0 +1,14 @@
+input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+textarea {
+    margin-bottom: 10px;
+}
+
+#btn {
+    border: none;
+    background-color: royalblue;
+    color: white;
+}
